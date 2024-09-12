@@ -1,23 +1,23 @@
 body {
-    background-color: #ccc; /* plano de fundo cinza */
-    margin: 0 20px; /* margem de respiro a direita e esquerda */
-    padding: 20px; /* margem interna em todos os lados */
+    background-color: #ccc; 
+    margin: 0 20px; 
+    padding: 20px; 
   }
 
-/* Classe para títulos */
+
 .title {
     text-align: center;
     font-weight: bold;
     text-transform: uppercase;
   }
   
-  /* Classe para textos em geral */
+  
   .text {
     display: justify;
     margin: 4px;
   }
   
-  /* Classes para imagens */
+  
   .image-1 {
     width: 400px;
     height: 400px;
@@ -39,20 +39,20 @@ body {
     margin-bottom: 10px;
   }
   
-  /* Classe para links */
+ 
   .link {
     text-decoration: none;
     font-weight: bold;
   }
 
-  /* Classe para conteúdo */
+  
 .content {
   background-color: whitesmoke;
   margin: 20px;
   padding: 20px;
 }
 
-  /* Classe para container */
+  
 .container {
     display: flex;
     margin: 5px;
@@ -63,9 +63,7 @@ body {
   display: flex;
 }
 
-/* ----------CONTAINERS---------- */
 
- /* Classe para o 1º Container */
 .container1{
   display: block; 
   text-align: left;
@@ -73,7 +71,7 @@ body {
   border: 8px solid whitesmoke;
 }
 
- /* Classe para o 2º Container */
+ 
 .container2{
   display: block; 
   text-align: center;
@@ -81,7 +79,7 @@ body {
   border: 8px solid whitesmoke;
 }
 
- /* Classe para o 3º Container */
+ 
  .container3{
   display: block; 
   text-align: right;
